@@ -7,7 +7,7 @@
 # This project is free to alter aslong as credit is givin
 # Copy and pasting some code is permitted as long as the user DOES NOT copy the entire project and alters 1 or 2 signatures.
 # Any projects alterd like above is in fight with the license and will result in deleting the app or asking the developer to change it.
-# Only current exception is for employees working at CFE Studio or Critical ops.
+# Only current exception is for employees working at CF Studio or Critical ops.
 
 
 # This one is for you developers :)
